@@ -1,0 +1,16 @@
+C:\Users\Beyza\Desktop\unity_c#_egitimi\if_elseif\bin\Debug\net5.0\if_elseif.exe
+C:\Users\Beyza\Desktop\unity_c#_egitimi\if_elseif\bin\Debug\net5.0\if_elseif.deps.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\if_elseif\bin\Debug\net5.0\if_elseif.runtimeconfig.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\if_elseif\bin\Debug\net5.0\if_elseif.runtimeconfig.dev.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\if_elseif\bin\Debug\net5.0\if_elseif.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\if_elseif\bin\Debug\net5.0\ref\if_elseif.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\if_elseif\bin\Debug\net5.0\if_elseif.pdb
+C:\Users\Beyza\Desktop\unity_c#_egitimi\if_elseif\obj\Debug\net5.0\if_elseif.csproj.AssemblyReference.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\if_elseif\obj\Debug\net5.0\if_elseif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyza\Desktop\unity_c#_egitimi\if_elseif\obj\Debug\net5.0\if_elseif.AssemblyInfoInputs.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\if_elseif\obj\Debug\net5.0\if_elseif.AssemblyInfo.cs
+C:\Users\Beyza\Desktop\unity_c#_egitimi\if_elseif\obj\Debug\net5.0\if_elseif.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\if_elseif\obj\Debug\net5.0\if_elseif.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\if_elseif\obj\Debug\net5.0\ref\if_elseif.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\if_elseif\obj\Debug\net5.0\if_elseif.pdb
+C:\Users\Beyza\Desktop\unity_c#_egitimi\if_elseif\obj\Debug\net5.0\if_elseif.genruntimeconfig.cache
