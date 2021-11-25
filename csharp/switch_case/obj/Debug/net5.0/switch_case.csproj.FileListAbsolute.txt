@@ -1,0 +1,16 @@
+C:\Users\Beyza\Desktop\unity_c#_egitimi\switch_case\bin\Debug\net5.0\switch_case.exe
+C:\Users\Beyza\Desktop\unity_c#_egitimi\switch_case\bin\Debug\net5.0\switch_case.deps.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\switch_case\bin\Debug\net5.0\switch_case.runtimeconfig.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\switch_case\bin\Debug\net5.0\switch_case.runtimeconfig.dev.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\switch_case\bin\Debug\net5.0\switch_case.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\switch_case\bin\Debug\net5.0\ref\switch_case.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\switch_case\bin\Debug\net5.0\switch_case.pdb
+C:\Users\Beyza\Desktop\unity_c#_egitimi\switch_case\obj\Debug\net5.0\switch_case.csproj.AssemblyReference.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\switch_case\obj\Debug\net5.0\switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyza\Desktop\unity_c#_egitimi\switch_case\obj\Debug\net5.0\switch_case.AssemblyInfoInputs.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\switch_case\obj\Debug\net5.0\switch_case.AssemblyInfo.cs
+C:\Users\Beyza\Desktop\unity_c#_egitimi\switch_case\obj\Debug\net5.0\switch_case.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\switch_case\obj\Debug\net5.0\switch_case.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\switch_case\obj\Debug\net5.0\ref\switch_case.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\switch_case\obj\Debug\net5.0\switch_case.pdb
+C:\Users\Beyza\Desktop\unity_c#_egitimi\switch_case\obj\Debug\net5.0\switch_case.genruntimeconfig.cache
