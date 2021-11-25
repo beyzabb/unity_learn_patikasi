@@ -1,0 +1,16 @@
+C:\Users\Beyza\Desktop\unity_c#_egitimi\giris\bin\Debug\net5.0\giris.exe
+C:\Users\Beyza\Desktop\unity_c#_egitimi\giris\bin\Debug\net5.0\giris.deps.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\giris\bin\Debug\net5.0\giris.runtimeconfig.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\giris\bin\Debug\net5.0\giris.runtimeconfig.dev.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\giris\bin\Debug\net5.0\giris.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\giris\bin\Debug\net5.0\ref\giris.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\giris\bin\Debug\net5.0\giris.pdb
+C:\Users\Beyza\Desktop\unity_c#_egitimi\giris\obj\Debug\net5.0\giris.csproj.AssemblyReference.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\giris\obj\Debug\net5.0\giris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyza\Desktop\unity_c#_egitimi\giris\obj\Debug\net5.0\giris.AssemblyInfoInputs.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\giris\obj\Debug\net5.0\giris.AssemblyInfo.cs
+C:\Users\Beyza\Desktop\unity_c#_egitimi\giris\obj\Debug\net5.0\giris.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\giris\obj\Debug\net5.0\giris.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\giris\obj\Debug\net5.0\ref\giris.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\giris\obj\Debug\net5.0\giris.pdb
+C:\Users\Beyza\Desktop\unity_c#_egitimi\giris\obj\Debug\net5.0\giris.genruntimeconfig.cache
