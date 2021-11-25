@@ -1,0 +1,16 @@
+C:\Users\Beyza\Desktop\unity_c#_egitimi\hata_yonetimi\bin\Debug\net5.0\hata_yonetimi.exe
+C:\Users\Beyza\Desktop\unity_c#_egitimi\hata_yonetimi\bin\Debug\net5.0\hata_yonetimi.deps.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\hata_yonetimi\bin\Debug\net5.0\hata_yonetimi.runtimeconfig.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\hata_yonetimi\bin\Debug\net5.0\hata_yonetimi.runtimeconfig.dev.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\hata_yonetimi\bin\Debug\net5.0\hata_yonetimi.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\hata_yonetimi\bin\Debug\net5.0\ref\hata_yonetimi.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\hata_yonetimi\bin\Debug\net5.0\hata_yonetimi.pdb
+C:\Users\Beyza\Desktop\unity_c#_egitimi\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.csproj.AssemblyReference.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyza\Desktop\unity_c#_egitimi\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.AssemblyInfoInputs.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.AssemblyInfo.cs
+C:\Users\Beyza\Desktop\unity_c#_egitimi\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\hata_yonetimi\obj\Debug\net5.0\ref\hata_yonetimi.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.pdb
+C:\Users\Beyza\Desktop\unity_c#_egitimi\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.genruntimeconfig.cache
