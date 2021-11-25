@@ -1,0 +1,16 @@
+C:\Users\Beyza\Desktop\unity_c#_egitimi\degiskenler\bin\Debug\net5.0\degiskenler.exe
+C:\Users\Beyza\Desktop\unity_c#_egitimi\degiskenler\bin\Debug\net5.0\degiskenler.deps.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.dev.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\degiskenler\bin\Debug\net5.0\degiskenler.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\degiskenler\bin\Debug\net5.0\ref\degiskenler.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\degiskenler\bin\Debug\net5.0\degiskenler.pdb
+C:\Users\Beyza\Desktop\unity_c#_egitimi\degiskenler\obj\Debug\net5.0\degiskenler.csproj.AssemblyReference.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\degiskenler\obj\Debug\net5.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyza\Desktop\unity_c#_egitimi\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfoInputs.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfo.cs
+C:\Users\Beyza\Desktop\unity_c#_egitimi\degiskenler\obj\Debug\net5.0\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\degiskenler\obj\Debug\net5.0\degiskenler.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\degiskenler\obj\Debug\net5.0\ref\degiskenler.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\degiskenler\obj\Debug\net5.0\degiskenler.pdb
+C:\Users\Beyza\Desktop\unity_c#_egitimi\degiskenler\obj\Debug\net5.0\degiskenler.genruntimeconfig.cache
