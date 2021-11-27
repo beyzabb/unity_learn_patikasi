@@ -1,0 +1,16 @@
+C:\Users\Beyza\Desktop\unity_c#_egitimi\while_foreach_donguleri\bin\Debug\net5.0\while_foreach_donguleri.exe
+C:\Users\Beyza\Desktop\unity_c#_egitimi\while_foreach_donguleri\bin\Debug\net5.0\while_foreach_donguleri.deps.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\while_foreach_donguleri\bin\Debug\net5.0\while_foreach_donguleri.runtimeconfig.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\while_foreach_donguleri\bin\Debug\net5.0\while_foreach_donguleri.runtimeconfig.dev.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\while_foreach_donguleri\bin\Debug\net5.0\while_foreach_donguleri.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\while_foreach_donguleri\bin\Debug\net5.0\ref\while_foreach_donguleri.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\while_foreach_donguleri\bin\Debug\net5.0\while_foreach_donguleri.pdb
+C:\Users\Beyza\Desktop\unity_c#_egitimi\while_foreach_donguleri\obj\Debug\net5.0\while_foreach_donguleri.csproj.AssemblyReference.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\while_foreach_donguleri\obj\Debug\net5.0\while_foreach_donguleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyza\Desktop\unity_c#_egitimi\while_foreach_donguleri\obj\Debug\net5.0\while_foreach_donguleri.AssemblyInfoInputs.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\while_foreach_donguleri\obj\Debug\net5.0\while_foreach_donguleri.AssemblyInfo.cs
+C:\Users\Beyza\Desktop\unity_c#_egitimi\while_foreach_donguleri\obj\Debug\net5.0\while_foreach_donguleri.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\while_foreach_donguleri\obj\Debug\net5.0\while_foreach_donguleri.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\while_foreach_donguleri\obj\Debug\net5.0\ref\while_foreach_donguleri.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\while_foreach_donguleri\obj\Debug\net5.0\while_foreach_donguleri.pdb
+C:\Users\Beyza\Desktop\unity_c#_egitimi\while_foreach_donguleri\obj\Debug\net5.0\while_foreach_donguleri.genruntimeconfig.cache
