@@ -20,6 +20,8 @@
 5. Hata Yönetimi
 6. If-Else Yapıları
 7. Switch Case Yapısı
+8. For Loop Döngüleri
+9. While Foreach Döngüleri
 
 
 
