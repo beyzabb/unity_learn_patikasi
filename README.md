@@ -22,6 +22,8 @@
 7. Switch Case Yapısı
 8. For Loop Döngüleri
 9. While Foreach Döngüleri
+10. Tanımlama, Erişim ve Döngülerle Dizi Kullanımı
+11. Array Sınıfı Methodları
 
 
 
