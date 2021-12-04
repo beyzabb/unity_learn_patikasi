@@ -1,0 +1,16 @@
+C:\Users\Beyza\Desktop\unity_c#_egitimi\diziler_array_sinifi_methodlari\bin\Debug\net5.0\diziler_array_sinifi_methodlari.exe
+C:\Users\Beyza\Desktop\unity_c#_egitimi\diziler_array_sinifi_methodlari\bin\Debug\net5.0\diziler_array_sinifi_methodlari.deps.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\diziler_array_sinifi_methodlari\bin\Debug\net5.0\diziler_array_sinifi_methodlari.runtimeconfig.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\diziler_array_sinifi_methodlari\bin\Debug\net5.0\diziler_array_sinifi_methodlari.runtimeconfig.dev.json
+C:\Users\Beyza\Desktop\unity_c#_egitimi\diziler_array_sinifi_methodlari\bin\Debug\net5.0\diziler_array_sinifi_methodlari.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\diziler_array_sinifi_methodlari\bin\Debug\net5.0\ref\diziler_array_sinifi_methodlari.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\diziler_array_sinifi_methodlari\bin\Debug\net5.0\diziler_array_sinifi_methodlari.pdb
+C:\Users\Beyza\Desktop\unity_c#_egitimi\diziler_array_sinifi_methodlari\obj\Debug\net5.0\diziler_array_sinifi_methodlari.csproj.AssemblyReference.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\diziler_array_sinifi_methodlari\obj\Debug\net5.0\diziler_array_sinifi_methodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyza\Desktop\unity_c#_egitimi\diziler_array_sinifi_methodlari\obj\Debug\net5.0\diziler_array_sinifi_methodlari.AssemblyInfoInputs.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\diziler_array_sinifi_methodlari\obj\Debug\net5.0\diziler_array_sinifi_methodlari.AssemblyInfo.cs
+C:\Users\Beyza\Desktop\unity_c#_egitimi\diziler_array_sinifi_methodlari\obj\Debug\net5.0\diziler_array_sinifi_methodlari.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\unity_c#_egitimi\diziler_array_sinifi_methodlari\obj\Debug\net5.0\diziler_array_sinifi_methodlari.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\diziler_array_sinifi_methodlari\obj\Debug\net5.0\ref\diziler_array_sinifi_methodlari.dll
+C:\Users\Beyza\Desktop\unity_c#_egitimi\diziler_array_sinifi_methodlari\obj\Debug\net5.0\diziler_array_sinifi_methodlari.pdb
+C:\Users\Beyza\Desktop\unity_c#_egitimi\diziler_array_sinifi_methodlari\obj\Debug\net5.0\diziler_array_sinifi_methodlari.genruntimeconfig.cache
